@@ -56,9 +56,6 @@ h2 {
     letter-spacing: 0.1em;
 }
 
-
-/* Aside and Blockquote Styles */
-
 aside blockquote {
     color: rgb(232, 165, 116);
     margin: 20px 50px;
@@ -79,8 +76,6 @@ aside blockquote::after {
     font-weight: bold;
 }
 
-
-/* Navigation Styles */
 
 nav>ul {
     line-height: 2em;
@@ -135,9 +130,6 @@ article#about_tss ul li:nth-of-type(2) {
 article#about_tss ul li:last-of-type {
     list-style-image: url(swimicon.png);
 }
-
-
-/* Footer Styles */
 
 body>footer address {
     background-color: rgb(222, 128, 60);
